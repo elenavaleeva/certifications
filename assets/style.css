@@ -1,0 +1,30 @@
+*{
+    padding: 0%;
+}
+
+body {
+    flex-direction: 0 0 1;
+    background-image: url("./clement-helardot-95YRwf6CNw8-unsplash.jpg");
+background-position: initial;
+background-size: cover;
+}
+
+h2 {
+    height: 50px;
+    width:100px ;
+    display: flex;
+    display: inline-table ;
+    height: auto;
+    color: rgb(41, 4, 110);
+  }
+
+  li {
+    color:rgb(235, 239, 253);
+    text-align: center;
+    text-shadow: 3px;
+    font-size: 30px;
+    margin: auto;
+  }
+  div {
+    margin-top: 170px;
+  }
